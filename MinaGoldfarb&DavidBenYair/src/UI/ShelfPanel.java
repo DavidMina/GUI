@@ -21,6 +21,8 @@ import AllClasses.ShelfProduct;
 
 public class ShelfPanel extends BasePanelForAllProducts{
 
+	//test
+	
 	private JRadioButton[] buttons;
 	private ShelfProduct.packageType type;
 	
